@@ -1,0 +1,38 @@
+# AI策略.list
+# 独立维护的 AI 服务域名规则，供 Custom_Clash_Lite_AI.ini 远程引用
+# 格式为 SubConverter/Clash classical 规则；以后只需更新此文件即可。
+
+# ChatGPT / OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,ai.com
+
+# Claude / Anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+
+# Gemini / Google AI
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.google
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+
+# Grok / xAI
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Microsoft Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.live.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,bingapis.com
